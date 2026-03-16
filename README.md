@@ -22,41 +22,19 @@ The system automatically:
 
 # Key Features
 
-## Conversational Analytics
-Users ask questions in natural language instead of writing SQL queries.
+1.Conversational Analytics
 
-## Automatic SQL Query Generation
-The system converts user questions into SQL queries that fetch the correct data.
+2.Automatic SQL Query Generation
 
-## Interactive Dashboards
-Charts are automatically generated using Plotly including:
+3.Interactive Dashboards
 
-- Bar Charts
-- Scatter Plots
-- Comparative Analysis
+4.KPI Analytics
 
-## KPI Analytics
-Displays important business metrics:
+5.Dataset Upload
 
-- Total Revenue
-- Total Conversions
-- Average ROI
+6.AI Business Insights
 
-## Dataset Upload
-Users can upload their own **CSV dataset** and immediately start asking questions.
-
-## AI Business Insights
-The dashboard automatically provides insights.
-
-## Chatbot Assistant
-A chatbot integrated with a knowledge base helps users understand:
-
-- How to use the dashboard
-- How to upload data
-- What questions to ask
-- How analytics works
-- 
-# 🛠 Tech Stack
+7.Chatbot Assistant
 
 ## Frontend
 Streamlit

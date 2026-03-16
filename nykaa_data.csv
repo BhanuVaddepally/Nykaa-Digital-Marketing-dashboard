@@ -1,0 +1,11 @@
+Campaign_ID,Campaign_Type,Channel_Used,Impressions,Clicks,Leads,Conversions,Revenue,ROI,Language,Customer_Segment,Date
+NY-CMP-1000,Social Media,YouTube,57804,6156,3616,2355,1867515,6.14,English,College Students,01-01-2025
+NY-CMP-1001,Paid Ads,Instagram,91801,3321,1971,1357,1046247,3.26,Hindi,Working Women,03-01-2025
+NY-CMP-1002,Email Marketing,Gmail,45210,4210,2010,1450,987654,4.11,English,Tier 2 Customers,05-01-2025
+NY-CMP-1003,Influencer,YouTube,78321,6421,3211,2450,2345678,7.22,English,College Students,10-01-2025
+NY-CMP-1004,Social Media,Instagram,62310,5321,2987,1900,1678900,5.03,Hindi,Working Women,12-01-2025
+NY-CMP-1005,Paid Ads,Facebook,70231,5102,2871,1980,1567890,4.88,English,Tier 2 Customers,15-01-2025
+NY-CMP-1006,Email Marketing,Gmail,34123,2987,1876,1200,876543,3.65,English,College Students,18-01-2025
+NY-CMP-1007,Influencer,Instagram,81234,7201,4012,2980,2678900,7.95,Hindi,Working Women,20-01-2025
+NY-CMP-1008,Social Media,Facebook,65321,4987,2765,1850,1456789,4.55,English,Tier 2 Customers,22-01-2025
+NY-CMP-1009,Paid Ads,YouTube,72123,6123,3456,2345,1987654,6.01,Hindi,College Students,25-01-2025

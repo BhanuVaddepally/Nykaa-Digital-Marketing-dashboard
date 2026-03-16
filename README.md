@@ -1,7 +1,7 @@
  ### Conversational AI for Instant Business Intelligence Dashboards
 
 🔗 **Live Demo:** https://nykaa-digital-marketing-dashboard.streamlit.app/  
-📂 **GitHub Repository:** https://github.com/yourusername/nykaa-ai-bi-dashboard
+📂 **GitHub Repository:** https://github.com/BhanuVaddepally/Nykaa-Digital-Marketing-dashboard
 
 An AI-powered analytics dashboard that allows **non-technical users to generate interactive business intelligence dashboards using natural language queries.**
 

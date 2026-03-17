@@ -1448,9 +1448,13 @@ def get_sqlite_conn(db_path="data.db"):
 
 
 conn = get_sqlite_conn()
+
 if st.session_state.get("data_sig") != data_sig:
-    data.to_sql("campaigns", conn, if_exists="replace", index=False)
-    st.session_state.data_sig = data_sig
+    try:
+        data.to_sql("campaigns", conn, if_exists="replace", index=False)
+        st.session_state.data_sig = data_sig
+    except Exception as e:
+        st.error(f"Database write error: {e}")
 
 # -------------------------
 # GEMINI AI (OPTIONAL)
